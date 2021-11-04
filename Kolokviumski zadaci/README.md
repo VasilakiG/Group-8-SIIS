@@ -1,1 +1,1 @@
-# **Welcome to Kolokviumski vezbi**
+# **Welcome to Kolokviumski zadaci**
