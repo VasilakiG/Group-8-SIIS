@@ -1,1 +1,1 @@
-# ** Welcome to Labs 2 **
+# **Welcome to Labs 2**
