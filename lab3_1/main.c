@@ -5,7 +5,7 @@ int main()
 {
     int n, obraten = 0, sum = 0, proi = 1;
     scanf("%d", &n);
-    if(n >= 100000 && n < 10000000)
+    if(n >= 1000000 && n < 10000000)
     {
         for(int i=0; i < 7; i++, n/=10)
         {
