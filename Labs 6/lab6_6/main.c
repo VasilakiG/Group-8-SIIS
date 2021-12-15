@@ -19,7 +19,7 @@ int main()
         {
             if(poc && a[i][j + 1] > a[i][j])
             {
-                dol++;
+                dol = 1;
                 poc = 0;
             }
             else if(a[i][j + 1] > a[i][j])
